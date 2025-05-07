@@ -1,10 +1,10 @@
-package com.budgets_app.budgetsGestion;
+package com.app.budget_back;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BudgetsGestionApplicationTests {
+class BudgetBackApplicationTests {
 
 	@Test
 	void contextLoads() {
