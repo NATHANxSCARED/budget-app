@@ -16,7 +16,10 @@ const Tab1: React.FC = () => {
             <IonTitle size="large">Tab 1</IonTitle>
           </IonToolbar>
         </IonHeader>
+<<<<<<< HEAD
         <Budgets />
+=======
+>>>>>>> 61179151cf9ecbf8f784c30174c587434471f03c
       </IonContent>
     </IonPage>
   );
