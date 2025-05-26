@@ -38,8 +38,7 @@ Créer une application de gestion de budget avec :
 
 ### Semaine 4 : Setup Ionic
 - [x] Installer Ionic CLI : `npm install -g @ionic/cli`.  
-- [x] Créer l’app : `ionic start budget-front blank --type=angular --capacitor`.  
-- [x] Ajouter Angular HttpClient (`ionic g service api`).
+- [x] Créer l’app : `ionic start budget-front blank --type=react --capacitor`.  
 
 ### Semaine 5 : Page d’upload
 - [x] Créer une page `UploadPage` avec un `<input type="file">`.  
